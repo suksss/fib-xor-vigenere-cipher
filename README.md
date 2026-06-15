@@ -54,4 +54,4 @@ Because the receiver tracks the matching key stream parameters and holds histori
 
 ```text
 ├── README.md               # Project documentation and specifications
-└── fib_xor_cipher.py       # Python source code containing implementation and CLI menu
+└── fib-xor-vigenere-cipher.py       # Python source code containing implementation and CLI menu
