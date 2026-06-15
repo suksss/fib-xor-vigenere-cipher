@@ -1,10 +1,7 @@
 # Fib-XOR Vigenère Cipher
 
-[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Academic Project](https://img.shields.io/badge/Academic-London%20Met%20%2F%20Islington-red)](https://islington.edu.np/)
 
-An enhanced symmetric polyalphabetic cryptosystem built to address the structural vulnerabilities of the classical Vigenère cipher. Developed as part of the coursework for **CC5009NI: Cybersecurity in Computing** (2025-26 Autumn Semester) at London Metropolitan University / Islington College.
+An enhanced symmetric polyalphabetic cryptosystem built to address the structural vulnerabilities of the classical Vigenère cipher. Developed as part of the coursework for **Cybersecurity in Computing** (2025-26 Autumn Semester) at London Metropolitan University / Islington College.
 
 > ⚠️ **Educational Disclaimer:** This repository features a conceptual cryptographic design created purely for pedagogical purposes to demonstrate principles of confusion and diffusion. It is **not** intended or vetted for securing production systems or sensitive real-world enterprise data.
 
